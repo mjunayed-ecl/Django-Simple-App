@@ -1,2 +1,2 @@
-# Django-Simple-App
+# Django-Simple-App test
 CRUD Operation in Django Project.
